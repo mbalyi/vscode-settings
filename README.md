@@ -9,6 +9,7 @@ Add the following plugins to your vscode:
 After the installation open the workspace settings.json with the following commands:
 * Mac: `cmd + shift + P`
 * Win: `ctrl + shift + P`
+
 then search for `Open Workspace Settings (JSON)`
 
 Copy the content of `settings.json` from this repository to the file.
