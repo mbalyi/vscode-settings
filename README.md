@@ -13,7 +13,10 @@ After the installation open the workspace settings.json with the following comma
 then search for `Open Workspace Settings (JSON)`
 
 Copy the content of `settings.json` from this repository to the file.
+
 Modify the path of your **java jdk**! Note JDK11 or higher version is required!
 
+
 Save the file then restart vscode!
+
 Have fun!
